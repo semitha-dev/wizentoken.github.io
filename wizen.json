@@ -1,9 +1,10 @@
 {
   "name": "Wizen Token",
   "symbol": "WZN",
-  "description": "Your game’s description goes here…",
+  "description": "WZN is a competitive four-player card game where players must skillfully balance luck, memory, and tactical decision-making to outplay their opponents. Each session blends dynamic hands, strategic bidding, and fast mental adaptation in a battle for supremacy. Players can climb seasonal rankings and qualify for the legendary WZN World Championship, held once a year to crown the ultimate master. Loyalty, precision, and courage will determine who rises to the top.",
   "image": "https://example.com/placeholder.png",
   "properties": {
     "files": [{ "uri": "https://example.com/placeholder.png", "type": "image/png" }]
   }
 }
+
