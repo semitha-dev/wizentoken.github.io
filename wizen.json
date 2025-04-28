@@ -1,0 +1,9 @@
+{
+  "name": "Wizen Token",
+  "symbol": "WZN",
+  "description": "Your game’s description goes here…",
+  "image": "https://example.com/placeholder.png",
+  "properties": {
+    "files": [{ "uri": "https://example.com/placeholder.png", "type": "image/png" }]
+  }
+}
